@@ -36,5 +36,4 @@ Monitorear nuevos clientes durante los primeros meses, y ofrecer seguimiento per
 
 
 💁🏻‍♀️Itzel Pérez García
-📞 228 159 52 65
 💻www.linkedin.com/in/itzel-perez-garcia  
