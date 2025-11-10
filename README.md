@@ -5,8 +5,8 @@
 
 ⚙ Proyectos
 
-📲PROYECTO: Patrones que determinen si un juego tiene éxito o no, en la tienda online Ice que vende videojuegos por todo el mundo.
-💻https://cnt-05adcfca-c43b-4c76-9b1f-9cef0dafa1d4.containerhub.tripleten-services.com/notebooks/notebook.ipynb
+📲PROYECTO 6: Patrones que determinen si un juego tiene éxito o no, en la tienda online Ice que vende videojuegos por todo el mundo.
+💻https://tripleten.com/trainer/data-analyst/lesson/c9422a73-b3ae-49fc-a64f-3d6d61cab188/task/a43a2531-a6e4-496f-af1b-c06e9b69c6d7/?from=program 
 El análisis de los datos de ventas y calificaciones de videojuegos entre 2007 y 2016 revela importantes diferencias en el comportamiento de usuarios y el desempeño comercial según plataforma, género y región. En particular, se encontró que las calificaciones promedio de los usuarios difieren significativamente entre las plataformas Xbox One y PC, así como entre los géneros Acción y Deportes. Esto indica que las preferencias y percepciones de calidad varían según el entorno de juego y el tipo de experiencia que ofrece cada género.
 Además, los análisis de ventas por región mostraron que las plataformas y géneros más exitosos no son homogéneos en todos los mercados, reflejando distintas tendencias culturales y preferencias regionales. Por ejemplo, ciertas plataformas dominan en Norteamérica mientras otras tienen mejor desempeño en Japón o Europa.
 Estos hallazgos sugieren que las empresas y desarrolladores deberían considerar estas diferencias para orientar mejor sus estrategias de desarrollo, marketing y distribución, ajustando sus productos y campañas a las características específicas de cada plataforma, género y región geográfica.
@@ -18,7 +18,7 @@ Estos hallazgos sugieren que las empresas y desarrolladores deberían considerar
 💻https://tripleten.com/trainer/data-analyst/lesson/bcabcf37-b5c2-4263-8ba9-fd37a608ab9a/task/fc431116-8c82-4db6-83a3-d449cda2df1b/?from=program
 
 📲PROYECTO 13: PREDICCION DE CANCELACION DE CLIENTES EN LA CADENA DE GIMNASIOS MODEL FITNESS
-💻https://cnt-f065a60c-4777-4048-8ffb-417c58d99eb3.containerhub.tripleten-services.com/notebooks/Itzel_revisado.ipynb
+💻 https://tripleten.com/trainer/data-analyst/lesson/1c764da3-c2df-4fcc-8500-5c40b0034f48/task/3be3acdd-e430-4d39-9aa4-e0c0ea6d4eac/?from=program
 CONCLUSIONES Y RECOMENDACIONES BASICAS SOBRE EL TRABAJO CON CLIENTES
 Factores que influyen en la cancelación:
 Frecuencia de visitas bajas → mayor riesgo de churn.
