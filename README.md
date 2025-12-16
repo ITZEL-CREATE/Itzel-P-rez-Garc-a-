@@ -1,4 +1,4 @@
-# Itzel-P-rez-Garc-a-
+ITZEL-CREAR
 👩🏻 Recientemente concluí el Bootcamp de Data Analytics en TripleTen, donde consolidé competencias técnicas en Python (pandas, NumPy, Matplotlib), SQL, Tableau y Power BI para el análisis, transformación y visualización de datos 📊. Este aprendizaje me ha permitido integrar mis habilidades de gestión con el análisis de información para la toma de decisiones basada en datos, optimización de procesos y generación de reportes estratégicos 🗂.
 
 
